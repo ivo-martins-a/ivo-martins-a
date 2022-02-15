@@ -1,9 +1,20 @@
 <h1 align="center">Oi 👋, Eu sou o Ivo Martins</h1>
 <h3 align="center">Apaixonado por análise de dados e programação</h3>
+<h2 align="left">Portfólio de projetos</h2>
 
-- 🌱 Atualmente estou aprendendo **Python, SQL, R, Power BI**
+
+- **Projeto 1:** [Exploring the NYC Airbnb Market](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
+             Idioma: Inglês | Linguagem: **Python**
+- **Projeto 2:** [The Android App Market on Google Play](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb)
+             Idioma: Inglês | Linguagem: **Python**  
+- **Projeto 3:** [Analyze International Debt Statistics](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Analyze%20International%20Debt%20Statistics/notebook.ipynb)
+             Idioma: Inglês | Linguagem: **SQL**  
+             
+<br />
 
 - 📫 contato: **ivo.martins.a@gmail.com**
+
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +27,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivo-martins-a&show_icons=true&locale=en&layout=compact" alt="ivo-martins-a" /></p>
 
 
+
 <!---
+
+
 - 👋 Hi, I’m @ivo-martins-a
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
