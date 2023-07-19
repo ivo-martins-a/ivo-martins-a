@@ -6,7 +6,7 @@
              Idioma: Português | Linguagem: **Python**
 - **Projeto 2:** [Predição de Preços de Imóveis em São Paulo usando Machine Learning](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
              Idioma: Português | Linguagem: **Python**
-- **Projeto 3:** [Predição de Preços de Imóveis em São Paulo usando Machine Learning](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
+- **Projeto 3:** [Análise de Fundos de Investimento Imobiliário (FIIs)](https://github.com/ivo-martins-a/Outros_Projetos/blob/main/An%C3%A1lise%20de%20Fundos%20de%20Investimento%20Imobili%C3%A1rio%20(FIIs)%20com%20Python.ipynb)
              Idioma: Português | Linguagem: **Python**
 - **Projeto 4:** [Exploring the NYC Airbnb Market](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
              Idioma: Inglês | Linguagem: **Python**
