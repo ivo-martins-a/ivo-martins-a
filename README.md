@@ -2,9 +2,9 @@
 <h3 align="center">Apaixonado por análise de dados e programação</h3>
 <h2 align="left">Portfólio de projetos</h2>
 
-- **Projeto 1:** [Exploring the NYC Airbnb Market](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
+- **Projeto 1:** [[Análise de Dados de E-commerce do Varejo Brasileiro](https://github.com/ivo-martins-a/Outros_Projetos/blob/main/An%C3%A1lise%20de%20Dados%20de%20E-commerce%20do%20Varejo%20Brasileiro.ipynb)](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
              Idioma: Português | Linguagem: **Python**
-  - **Projeto 2:** [Exploring the NYC Airbnb Market](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
+- **Projeto 2:** [Predição de Preços de Imóveis em São Paulo usando Machine Learning]([https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb](https://github.com/ivo-martins-a/Outros_Projetos/blob/main/Predi%C3%A7%C3%A3o%20de%20Pre%C3%A7os%20de%20Im%C3%B3veis%20em%20S%C3%A3o%20Paulo%20usando%20Machine%20Learning.ipynb))
              Idioma: Português | Linguagem: **Python**
 - **Projeto 3:** [Exploring the NYC Airbnb Market](https://github.com/ivo-martins-a/Projetos_Data_Camp/blob/main/Exploring%20the%20NYC%20Airbnb%20Market/notebook.ipynb)
              Idioma: Inglês | Linguagem: **Python**
