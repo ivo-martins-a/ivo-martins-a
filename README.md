@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Ivo Martins</h1>
-<h3 align="center">Apaixonado por análise de dados e programação</h3>
+<h3 align="center">Entusiasta de análise de dados e programação</h3>
 <h2 align="left">Portfólio de projetos</h2>
 
 - **Projeto 1:** [Análise de Dados de E-commerce do Varejo Brasileiro](https://github.com/ivo-martins-a/Outros_Projetos/blob/main/An%C3%A1lise%20de%20Dados%20de%20E-commerce%20do%20Varejo%20Brasileiro.ipynb)
