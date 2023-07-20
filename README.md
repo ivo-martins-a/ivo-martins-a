@@ -18,7 +18,8 @@
 <br />
 <h3 align="left">Contato:</h3>
 - 📫 **ivo.martins.a@gmail.com**
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-martins-araujo/)
+
+[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-martins-araujo)
 
 <br />
 
